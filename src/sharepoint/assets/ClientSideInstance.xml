@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="TestMgtHotkeysIssue"
+        Location="ClientSideExtension.ListViewCommandSet.CommandBar"
+        ListTemplateId="101"
+        Properties="{&quot;sampleTextOne&quot;:&quot;One item is selected in the list.&quot;, &quot;sampleTextTwo&quot;:&quot;This command is always visible.&quot;}"
+        ComponentId="3e74396b-806e-47da-b05f-236d8fa2a209" />
+</Elements>

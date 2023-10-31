@@ -1,0 +1,16 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://piasysdev.sharepoint.com/sites/PiaSysTechBitesDemoSite/Shared%20Documents/Forms/AllItems.aspx",
+      "customActions": {
+        "3e74396b-806e-47da-b05f-236d8fa2a209": {
+          "location": "ClientSideExtension.ListViewCommandSet",
+          "properties": {}
+        }
+      }
+    }
+  }
+}
